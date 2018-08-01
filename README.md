@@ -68,8 +68,8 @@ Inspired by shj(https://htwm.github.io).
 *Links for cost anlysis HTMLs.*
 
 - [工区经济活动分析可视化-**分季度**]
-    - [利润表](./CostAnlysisHTML/(SUM)利润表.html) - 开累工区利润图表.
-    - [利润率表](./CostAnlysisHTML/(SUM)利润率表.html) - 开累工区利润率图表.
+    - [利润表](./CostAnalysisHTML/(SUM)利润表.html) - 开累工区利润图表.
+    - [利润率表](./CostAnalysisHTML/(SUM)利润率表.html) - 开累工区利润率图表.
 
 - [标段经济活动分析可视化堆叠图-**开累**]
-    - [利润表](./CostAnlysisHTML/(SUM)利润表-Merge.html) - 开累标段利润图表.
+    - [利润表](./CostAnalysisHTML/(SUM)利润表-Merge.html) - 开累标段利润图表.
